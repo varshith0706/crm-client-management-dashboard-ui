@@ -1,32 +1,37 @@
 # CRM / Client Management Dashboard UI
 
-A modern CRM dashboard UI designed for marketing agencies and B2B businesses.
+A modern CRM / Client Management Dashboard UI designed in Figma for marketing agencies and B2B service businesses.
 
-## Features
-
+## ✨ Features
 - Dashboard Overview
 - Lead Pipeline
 - Client Profile
 - Tasks & Follow-ups
-- Modern SaaS Interface
-- Responsive Layout
+- Revenue Analytics
+- Meeting Schedule
+- Responsive SaaS Layout
 
-## Tools
-
+## 🛠️ Tools Used
 - Figma
 - Auto Layout
 - Components
+- Variants
 - Design System
+- Prototyping
 
-## Screens
+## 📸 Screenshots
 
-- Dashboard
-- Lead Pipeline
-- Client Profile
-- Tasks
+(Add all 5 screenshots here)
 
-## Purpose
+## 🎯 Design Goals
+- Improve client management workflow
+- Track leads efficiently
+- Organize follow-ups
+- Present business analytics clearly
 
-Designed to improve client management, lead tracking and task organization through a clean, user-friendly interface.
+## 📌 Project Type
+UI/UX Design (Figma)
 
+## 👨‍💻 Author
+Varshith Goud
 Created as part of my UI/UX Internship.
